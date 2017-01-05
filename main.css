@@ -10,7 +10,7 @@ img {
 }
 
 h1 {
-	margin-left: 70%;
+	margin-left: 65%;
 	margin-top: 25%;
 	position: absolute;
 	font-family:absolute;
@@ -20,11 +20,11 @@ h1 {
 }
 
 p {
-	margin-left: 70%;
+	margin-left: 65%;
 	margin-top: 28%;
 	position: absolute;
 	font-family:absolute;
 	font-style: italic;
 	z-index: 0;
-	color: pink;
+	color: whitesmoke;
 }
