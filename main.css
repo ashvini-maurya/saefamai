@@ -11,5 +11,6 @@ img {
 
 h1 {
 	margin-left: 40px;
-	position: 10%;
+	position: absolute;
+	z-index: -1;
 }
