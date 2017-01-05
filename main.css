@@ -10,8 +10,11 @@ img {
 }
 
 h1 {
-	margin-left: 40px;
+	margin-left: 10%;
+	margin-top: 25%;
 	position: absolute;
+	font-family:absolute;
+	font-style: italic;
 	z-index: 0;
-	color: white;
+	color: pink;
 }
