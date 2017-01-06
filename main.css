@@ -12,14 +12,14 @@ img {
 
 
 a {
-	margin-left: 72%;
-	margin-top: 22%;
+	margin-left: 45%;
+	margin-top: 57%;
 	position: absolute;
 	font-family:absolute;
 	font-style: italic;
 	font-size: 200%;
 	z-index: 0;
-	color: white;
+	color: #333;
 }
 
 /*
