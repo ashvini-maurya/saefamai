@@ -5,6 +5,7 @@
 
 
 img {
+	position: static;
 	margin-top: -10px;
 	margin-left: -10px;
 }
@@ -12,7 +13,7 @@ img {
 
 
 a {
-	margin-left: 45%;
+	margin-left: 47%;
 	margin-top: 58%;
 	position: absolute;
 	font-family:absolute;
