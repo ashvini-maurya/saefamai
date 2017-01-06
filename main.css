@@ -13,11 +13,12 @@ img {
 
 a {
 	margin-left: 45%;
-	margin-top: 57%;
+	margin-top: 58%;
 	position: absolute;
 	font-family:absolute;
 	font-style: italic;
-	font-size: 200%;
+	text-decoration: none;
+	font-size: 100%;
 	z-index: 0;
 	color: #333;
 }
