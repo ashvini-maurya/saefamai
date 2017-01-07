@@ -5,9 +5,9 @@
 
 
 img {
-	position: static;
 	margin-top: -10px;
 	margin-left: -10px;
+	max-width: 101.3%
 }
 
 
@@ -35,5 +35,14 @@ p {
 	z-index: 0;
 	color: pink;
 	
+}
+*/
+
+#trapezoid {
+	border-bottom: 100px solid red;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
 }
 
