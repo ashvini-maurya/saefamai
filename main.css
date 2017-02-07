@@ -1,57 +1,61 @@
-
 .HEADER {
 	margin-top: 10%;
-	margin-left: 10%;
+	margin-left: 30%;
 }
 
 .BEGIN {
-	margin-top: 10%;
-	margin-left: 10%;
+	margin-top: 5%;
+	margin-left: 30%;
+	margin-right: 30%;
 }
 
 .SIGNUP_TOP {
-	margin-top: 10%;
-	margin-left: 10%;
+	margin-top: 3%;
+	margin-left: 30%;
 }
 
 .ICON1 {
-	margin-top: 10%;
-	margin-left: 10%;
+	margin-top: 3%;
+	margin-left: 30%;
 }
 
 .ICON2 {
-	margin-left: 10%;
-	margin-top: 10%;
+	margin-left: 30%;
+	margin-top: 5%;
 }
 
 .ICON3 {
-	margin-left: 10%;
-	margin-top: 10%;
+	margin-left: 30%;
+	margin-top: 5%;
 }
 
 .ICON4 {
-	margin-left: 10%;
-	margin-top: 10%;
+	margin-left: 3%;
+	margin-top: 30%;
 }
 
-.PARA1 {
-	margin-top: 10%;
-	margin-left: 10%;
+.para1 {
+	margin-top: 5%;
+	margin-left: 30%;
+	margin-right: 50%;
 }
 
 .PARA2 {
-	margin-left: 10%;
-	margin-top: 10%;
+	margin-left: 55%;
+	margin-top: -15.7%;
+	margin-right: 25%;
 }
 
 .PARA3 {
-	margin-top: 10%;
-	margin-left: 10%;
+	margin-top: 0%;
+	margin-left: 30%;
+	margin-right: 50%;
 }
 
 .PARA4 {
-	margin-left: 10%;
-	margin-top: 10%;
+	margin-left: 55%;
+	margin-top: -40.7%;
+	margin-right: 25%;
 }
 
 .HDFC_GIF {
@@ -60,11 +64,11 @@
 }
 
 .SIGNUP_BOTTOM {
-	margin-top: 10%;
-	margin-left: 10%;
+	margin-top: -3%;
+	margin-left: 44%;
 }
 
 .END_PARA {
-	margin-left: 10%;
-	margin-top: 10%;
+	margin-left: 30%;
+	margin-top: 4%;
 }
