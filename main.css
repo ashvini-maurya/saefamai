@@ -77,15 +77,16 @@
 	border-radius: 2px;
 }
 
-.button {
-    background-color: light Grey; /* Green */
+.button1 {
+    background-color: light gainsboro;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 8px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    font-size: 13px;
+    margin: 1px 405px;
     cursor: pointer;
+    border-radius: 4px;
 }
