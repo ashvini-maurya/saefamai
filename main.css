@@ -1,10 +1,11 @@
 .HEADER {
 	margin-top: 10%;
 	margin-left: 30%;
+
 }
 
 .BEGIN {
-	margin-top: 5%;
+	margin-top: 3%;
 	margin-left: 30%;
 	margin-right: 30%;
 }
@@ -38,24 +39,28 @@
 	margin-top: 5%;
 	margin-left: 30%;
 	margin-right: 50%;
+	font-size: 9px;
 }
 
 .PARA2 {
 	margin-left: 55%;
 	margin-top: -15.7%;
 	margin-right: 25%;
+	font-size: 9px;
 }
 
 .PARA3 {
 	margin-top: 0%;
 	margin-left: 30%;
 	margin-right: 50%;
+	font-size: 9px;
 }
 
 .PARA4 {
 	margin-left: 55%;
 	margin-top: -40.7%;
 	margin-right: 25%;
+	font-size: 9px;
 }
 
 .HDFC_GIF {
@@ -71,6 +76,7 @@
 .END_PARA {
 	margin-left: 30%;
 	margin-top: 4%;
+	font-size: 9px;
 }
 
 .button1 {
@@ -86,3 +92,6 @@
     cursor: pointer;
     border-radius: 4px;
 }
+
+
+
