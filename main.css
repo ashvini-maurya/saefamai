@@ -137,3 +137,10 @@
     top: 16px;
 	font-size: 12px;
 }
+
+.sign_in_text {
+	position: absolute;
+    left: 10px;
+    top: 16px;
+	font-size: 12px;
+}
