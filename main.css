@@ -46,7 +46,7 @@
 }
 
 .PARA2 {
-	position: absolute;
+	position: fixed;
     left: 720px;
     top: 530px;
 	font-size: 12px;
@@ -54,13 +54,13 @@
 }
 
 .ICON2 {
-	position: absolute;
+	position: fixed;
     left: 720px;
     top: 490px;
 }
 
 .PARA3 {
-	position: absolute;
+	position: fixed;
     left: 420px;
     top: 720px;
 	font-size: 12px;
@@ -68,13 +68,13 @@
 }
 
 .ICON3 {
-	position: absolute;
+	position: fixed;
     left: 420px;
     top: 670px;
 }
 
 .PARA4 {
-	position: absolute;
+	position: fixed;
     left: 720px;
     top: 720px;
 	font-size: 12px;
@@ -82,42 +82,42 @@
 }
 
 .ICON4 {
-	position: absolute;
+	position: fixed;
     left: 720px;
     top: 670px;
 }
 
 
 .HDFC_GIF {
-	position: absolute;
+	position: fixed;
     left: 596px;
     top: 910px;
     z-index: 1;
 }
 
 .Phone_body {
-	position: absolute;
+	position: fixed;
     left: 570px;
     top: 840px;
     z-index: 0;
 }
 
 .SIGNUP_BOTTOM {
-	position: absolute;
+	position: fixed;
     left: 432px;
     top: 1097px;
 	font-size: 12px;
 }
 
 .END_PARA {
-	position: absolute;
+	position: fixed;
     left: 420px;
     top: 1330px;
 	font-size: 12px;
 }
 
 .button1 {
-    position: absolute;
+    position: fixed;
     top: 400px;
     left: 15px;
     background-color: #4d90fe;
@@ -134,7 +134,7 @@
 }
 
 .button2 {
-    position: absolute;
+    position: fixed;
     top: 1080px;
     left: 429px;
     background-color: #4d90fe;
@@ -151,7 +151,7 @@
 }
 
 .sign_in_text {
-	position: absolute;
+	position: fixed;
     left: 485px;
     top: 394px;
 	font-size: 12px;
