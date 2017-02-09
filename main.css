@@ -17,66 +17,89 @@
 }
 
 .ICON1 {
-	margin-top: 3%;
-	margin-left: 30%;
+	position: absolute;
+    left: 420px;
+    top: 490px;
 }
 
-.ICON2 {
-	margin-left: 30%;
-	margin-top: 5%;
-}
+
 
 .ICON3 {
-	margin-left: 30%;
-	margin-top: 5%;
+	position: absolute;
+    left: 420px;
+    top: 100px;
 }
 
-.ICON4 {
-	margin-left: 3%;
-	margin-top: 30%;
-}
+
 
 .para1 {
-	margin-top: auto%;
-	margin-left: 30%;
-	margin-right: 51%;
+	position: absolute;
+    left: 420px;
+    top: 530px;
 	font-size: 12px;
+	margin-right:51%;
 }
 
 .PARA2 {
-	margin-left: 52%;
-	margin-top: -12.5%;
-	margin-right: 30%;
+	position: absolute;
+    left: 720px;
+    top: 530px;
 	font-size: 12px;
+	margin-right:30%;
+}
+
+.ICON2 {
+	position: absolute;
+    left: 720px;
+    top: 490px;
 }
 
 .PARA3 {
-	margin-top: auto;
-	margin-left: 30%;
-	margin-right: 51%;
+	position: absolute;
+    left: 420px;
+    top: 720px;
 	font-size: 12px;
+	margin-right:51%;
+}
+
+.ICON3 {
+	position: absolute;
+    left: 420px;
+    top: 670px;
 }
 
 .PARA4 {
-	margin-left: 52%;
-	margin-top: -37.2%;
-	margin-right: 30%;
+	position: absolute;
+    left: 720px;
+    top: 720px;
 	font-size: 12px;
+	margin-right:30%;
 }
 
+.ICON4 {
+	position: absolute;
+    left: 720px;
+    top: 670px;
+}
+
+
 .HDFC_GIF {
-	margin-top: 10%;
-	margin-left: 10%;
+	position: absolute;
+    left: 680px;
+    top: 970px;
 }
 
 .SIGNUP_BOTTOM {
-	margin-top: -3%;
-	margin-left: 44%;
+	position: absolute;
+    left: 620px;
+    top: 1000px;
+	font-size: 12px;
 }
 
 .END_PARA {
-	margin-left: 30%;
-	margin-top: 4%;
+	position: absolute;
+    left: 420px;
+    top: 1100px;
 	font-size: 12px;
 }
 
@@ -93,6 +116,7 @@
     cursor: pointer;
     border-radius: 4px;
 }
+
 
 
 
