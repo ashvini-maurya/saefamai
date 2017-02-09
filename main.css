@@ -93,7 +93,7 @@
 
 .SIGNUP_BOTTOM {
 	position: absolute;
-    left: 624px;
+    left: 640px;
     top: 1000px;
 	font-size: 12px;
 }
@@ -125,7 +125,7 @@
 .button2 {
     position: absolute;
     top: 983px;
-    left: 615px;
+    left: 633px;
     background-color: #4d90fe;
     border: none;
     color: white;
