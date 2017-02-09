@@ -90,15 +90,15 @@
 
 .HDFC_GIF {
 	position: absolute;
-    left: 640px;
-    top: 940px;
+    left: 580px;
+    top: 900px;
     z-index: 1;
 }
 
 .Phone_body {
 	position: absolute;
-    left: 640px;
-    top: 940px;
+    left: 544px;
+    top: 840px;
     z-index: 0;
 }
 
