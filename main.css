@@ -123,6 +123,9 @@
 }
 
 .button2 {
+    position: absolute;
+    top: 800px;
+    left: 15px;
     background-color: #4d90fe;
     border: none;
     color: white;
