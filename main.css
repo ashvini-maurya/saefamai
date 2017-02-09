@@ -81,10 +81,10 @@
 }
 
 .button1 {
-    background-color: light gainsboro;
+    background-color: #4d90fe;
     border: none;
     color: white;
-    padding: 8px 15px;
+    padding: 6px 12px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
