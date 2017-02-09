@@ -92,6 +92,14 @@
 	position: absolute;
     left: 640px;
     top: 940px;
+    z-index: 1;
+}
+
+.Phone_body {
+	position: absolute;
+    left: 640px;
+    top: 940px;
+    z-index: 0;
 }
 
 .SIGNUP_BOTTOM {
