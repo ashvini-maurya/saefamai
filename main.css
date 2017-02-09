@@ -1,12 +1,14 @@
 .HEADER {
-	margin-top: 10%;
-	margin-left: 30%;
+	position: absolute;
+    top: 145px;
+    left: 420px;
 
 }
 
 .BEGIN {
-	margin-top: 3%;
-	margin-left: 30%;
+	position: absolute;
+    top: 305px;
+    left: 420px;
 	margin-right: 30%;
 	font-size: 12px;
 }
@@ -104,6 +106,9 @@
 }
 
 .button1 {
+    position: absolute;
+    top: 400px;
+    left: 15px;
     background-color: #4d90fe;
     border: none;
     color: white;
@@ -132,13 +137,6 @@
 }
 
 .SIGNUP_BOTTOM p {
-	position: absolute;
-    left: 10px;
-    top: 16px;
-	font-size: 12px;
-}
-
-.sign_in_text {
 	position: absolute;
     left: 10px;
     top: 16px;
