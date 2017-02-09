@@ -112,7 +112,7 @@
 .END_PARA {
 	position: absolute;
     left: 420px;
-    top: 1100px;
+    top: 1330px;
 	font-size: 12px;
 }
 
@@ -135,8 +135,8 @@
 
 .button2 {
     position: absolute;
-    top: 983px;
-    left: 633px;
+    top: 1080px;
+    left: 429px;
     background-color: #4d90fe;
     border: none;
     color: white;
