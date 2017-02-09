@@ -12,7 +12,8 @@
 	position: absolute;
     top: 305px;
     left: 420px;
-	margin-right: 30%;
+	max-width:550px;
+	padding-right:20px;
 	font-size: 12px;
 }
 
@@ -42,7 +43,8 @@
     left: 420px;
     top: 530px;
 	font-size: 12px;
-	margin-right:51%;
+	max-width:250px;
+	padding-right:20px;
 }
 
 .PARA2 {
@@ -50,7 +52,8 @@
     left: 720px;
     top: 530px;
 	font-size: 12px;
-	margin-right:30%;
+	max-width:250px;
+	padding-right:20px;
 }
 
 .ICON2 {
@@ -64,7 +67,8 @@
     left: 420px;
     top: 720px;
 	font-size: 12px;
-	margin-right:51%;
+	max-width:250px;
+	padding-right:20px;
 }
 
 .ICON3 {
@@ -78,7 +82,8 @@
     left: 720px;
     top: 720px;
 	font-size: 12px;
-	margin-right:30%;
+	max-width:250px;
+	padding-right:20px;
 }
 
 .ICON4 {
@@ -114,6 +119,8 @@
     left: 420px;
     top: 1330px;
 	font-size: 12px;
+	max-width:550px;
+	padding-right:20px;
 }
 
 .button1 {
