@@ -90,14 +90,14 @@
 
 .HDFC_GIF {
 	position: absolute;
-    left: 580px;
+    left: 596px;
     top: 910px;
     z-index: 1;
 }
 
 .Phone_body {
 	position: absolute;
-    left: 555px;
+    left: 570px;
     top: 840px;
     z-index: 0;
 }
