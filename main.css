@@ -140,6 +140,10 @@
     border-radius: 4px;
 }
 
+button:Hover {
+    color: #ffecbe;
+}
+
 .button2 {
     position: absolute;
     top: 1080px;
