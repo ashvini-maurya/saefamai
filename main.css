@@ -142,9 +142,8 @@
 
 button:Hover {
     color: #5193fb;
-    background-color: white;
     border-color: #5193fb;
-    border-width: 2px;
+
 }
 
 .button2 {
