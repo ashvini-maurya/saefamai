@@ -141,7 +141,8 @@
 }
 
 button:Hover {
-    color: #ffecbe;
+    color: blue;
+    background-color: white;
 }
 
 .button2 {
