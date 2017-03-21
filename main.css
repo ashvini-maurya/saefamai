@@ -15,6 +15,14 @@
 	color: #50E3C2;
 }
 
+.Hero_support_text {
+	position: absolute;
+	top: 600px;
+	left: 415px;
+	text-align: center;
+	color: #829496;
+}
+
 .Section_1 {
 	position: absolute;
 	top: 1050px;
