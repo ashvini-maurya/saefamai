@@ -33,7 +33,7 @@
 .Section_1 {
 	position: absolute;
 	top: 1000px;
-	left: 230px;
+	left: 350px;
 	text-align: center;
 	letter-spacing: 2px;
 	font-size: 21px;
@@ -48,6 +48,7 @@
 	text-align: center;
 	letter-spacing: 2px;
 	font-size: 21px;
+	font-weight: bolder;
 	color: #02202a;
 }
 
