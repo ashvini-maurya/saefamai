@@ -1,8 +1,8 @@
 
-.Main_screen_logo {
+.Hero_image {
 	position: absolute;
-	top: 500px;
-	left: 680px;
+	top: 200px;
+	left: 550px;
 }
 
 .Hero_text {
@@ -19,6 +19,12 @@
 	text-align: center;
 }
 
+.image_section_1 {
+	position: absolute;
+	top: 180px;
+	left: -300px;
+}
+
 .Section_2 {
 	position: absolute;
 	top: 1600px;
@@ -26,40 +32,10 @@
 	text-align: center;
 }
 
-.google_logo {
+.image_section_2 {
 	position: absolute;
 	top: 180px;
 	left: -300px;
-}
-
-.tesla_logo {
-	position: absolute;
-	top: 180px;
-	left: -150px;
-}
-
-.facebook_logo {
-	position: absolute;
-	top: 180px;
-	left: 10px;
-}
-
-.IITD_logo {
-	position: absolute;
-	top: 180px;
-	left: 300px;
-}
-
-.MIT_logo {
-	position: absolute;
-	top: 180px;
-	left: 475px;
-}
-
-.Stanford_logo {
-	position: absolute;
-	top: 180px;
-	left: 650px;
 }
 
 .Section_3 {
@@ -67,4 +43,10 @@
 	top: 2000px;
 	left: 500px;
 	text-align: center;
+}
+
+.image_section_3 {
+	position: absolute;
+	top: 180px;
+	left: -300px;
 }
