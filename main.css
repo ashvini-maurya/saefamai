@@ -32,21 +32,23 @@
 
 .Section_1 {
 	position: absolute;
-	top: 1050px;
+	top: 1000px;
 	left: 230px;
 	text-align: center;
 	letter-spacing: 2px;
 	font-size: 21px;
 	font-weight: bolder;
+	color: white;
 }
 
 .Section_1_support_text {
 	position: absolute;
-	top: 1050px;
-	left: 230px;
+	top: 1100px;
+	left: 460px;
 	text-align: center;
 	letter-spacing: 2px;
 	font-size: 21px;
+	color: #02202a;
 }
 
 .image_section_1 {
