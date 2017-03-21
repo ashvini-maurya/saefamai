@@ -63,9 +63,24 @@
 
 .Section_2 {
 	position: absolute;
-	top: 1600px;
-	left: 500px;
+	top: 1700px;
+	left: 460px;
 	text-align: center;
+	letter-spacing: 2px;
+	font-size: 21px;
+	font-weight: bolder;
+	color: #02202a;
+}
+
+.Section_2_support_text {
+	position: absolute;
+	top: 1700px;
+	left: 460px;
+	text-align: center;
+	letter-spacing: 2px;
+	font-size: 21px;
+	font-weight: bolder;
+	color: #02202a;
 }
 
 .image_section_2 {
