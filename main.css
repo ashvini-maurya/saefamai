@@ -92,7 +92,7 @@
 
 .Section_3 {
 	position: absolute;
-	top: 1990px;
+	top: 2050px;
 	left: 440px;
 	text-align: center;
 	letter-spacing: 2px;
@@ -103,7 +103,7 @@
 
 .image_section_3 {
 	position: absolute;
-	top: 2060px;
+	top: 2070px;
 	left: 20px;
 	z-index: -1;
 }
