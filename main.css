@@ -99,6 +99,7 @@
 
 .image_section_3 {
 	position: absolute;
-	top: 180px;
-	left: -300px;
+	top: 1930px;
+	left: 0px;
+	z-index: -1;
 }
