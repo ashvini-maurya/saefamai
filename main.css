@@ -95,6 +95,10 @@
 	top: 2000px;
 	left: 500px;
 	text-align: center;
+	letter-spacing: 2px;
+	font-size: 21px;
+	font-weight: bolder;
+	color: #02202a;
 }
 
 .image_section_3 {
