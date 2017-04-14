@@ -119,3 +119,10 @@
 	font-weight: bolder;
 	color: #02202a;
 }
+
+.image_section_4 {
+	position: absolute;
+	top: 2650px;
+	left: 0px;
+	z-index: -1;
+}
