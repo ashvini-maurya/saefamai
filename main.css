@@ -108,3 +108,14 @@
 	left: 20px;
 	z-index: -1;
 }
+
+.section_4 {
+	position: absolute;
+	top: 2050px;
+	left: 415px;
+	text-align: center;
+	letter-spacing: 2px;
+	font-size: 21px;
+	font-weight: bolder;
+	color: #02202a;
+}
