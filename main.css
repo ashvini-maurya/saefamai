@@ -129,18 +129,18 @@
 
 .section_5 {
 	position: absolute;
-	top: 2940px;
+	top: 3640px;
 	left: 470px;
 	text-align: center;
 	letter-spacing: 2px;
 	font-size: 21px;
 	font-weight: bolder;
-	color: #02202a;
+	color: #ffffff;
 }
 
 .image_section_5 {
 	position: absolute;
-	top:3050px;
+	top:3550px;
 	left: 0px;
 	z-index: -1;
 }
