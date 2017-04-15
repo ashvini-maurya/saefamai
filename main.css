@@ -144,3 +144,10 @@
 	left: 0px;
 	z-index: -1;
 }
+
+.footer {
+	position: absolute;
+	top: 4000px;
+	left: 0px;
+	z-index: -1;
+}
