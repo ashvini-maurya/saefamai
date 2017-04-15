@@ -2,6 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Dosis');
 
+
+.body {
+	margin-bottom: 0px; 
+	padding-bottom: 0px}
+
 .Hero_image {
 	position: absolute;
 	top: 0px;
