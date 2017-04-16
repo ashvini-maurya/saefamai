@@ -153,9 +153,9 @@
 
 #rectangle {
 	top: 2200px;
-    width:200px;
-    height:100px;
-    background:black;
+    width:2000px;
+    height:2000px;
+    background:pink;
 }
 
 .footer {
