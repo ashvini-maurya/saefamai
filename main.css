@@ -154,7 +154,7 @@
 .button_1 {
     position: absolute;
     top: 2910px;
-    left: 300px;
+    left: 290px;
     background-color: #829496;
     border: none;
     color: white;
@@ -170,7 +170,7 @@
 
 button:Hover {
     color: #51fbf0;
-    background-color: #829496;
+    background-color: #6a7a7c;
     
 }
 
