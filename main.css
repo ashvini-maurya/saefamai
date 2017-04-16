@@ -153,11 +153,11 @@
 
 .button_1 {
     position: absolute;
-    top: 2910px;
+    top: 2932px;
     left: 290px;
-    background-color: #829496;
+    background-color: #ffd30a;
     border: none;
-    color: white;
+    color: black;
     padding: 6px 12px;
     text-align: center;
     text-decoration: none;
@@ -170,7 +170,7 @@
 
 button:Hover {
     color: #51fbf0;
-    background-color: #6a7a7c;
+    background-color: black;
     
 }
 
