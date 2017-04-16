@@ -141,7 +141,7 @@
 	letter-spacing: 2px;
 	font-size: 21px;
 	font-weight: bolder;
-	color: #ffffff;
+	color: #02202a;
 }
 
 .image_section_5 {
@@ -149,6 +149,13 @@
 	top:3548px;
 	left: 0px;
 	z-index: -1;
+}
+
+#rectangle {
+	top: 2200px;
+    width:200px;
+    height:100px;
+    background:black;
 }
 
 .footer {
