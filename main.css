@@ -115,7 +115,7 @@
 	color: black;
 }
 
-.section_4 {
+/*.section_4 {
 	position: absolute;
 	top: 2740px;
 	left: 470px;
@@ -149,18 +149,19 @@
 	top:3548px;
 	left: 0px;
 	z-index: -1;
-}
+}*/
 
 #rectangle {
-	top: 2200px;
-    width:2000px;
-    height:2000px;
+	top: 2070px;
+    width:2800px;
+    height:1800px;
     background:pink;
+    z-index: -1;
 }
 
 .footer {
 	position: absolute;
-	top: 2650px;
+	top: 2850px;
 	left: 0px;
 	z-index: -1;
 	padding: 0px;
