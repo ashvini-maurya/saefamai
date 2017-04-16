@@ -112,6 +112,7 @@
 	top: 2070px;
 	left: 20px;
 	z-index: -1;
+	color: black;
 }
 
 .section_4 {
@@ -152,7 +153,7 @@
 
 .footer {
 	position: absolute;
-	top: 4168px;
+	top: 2650px;
 	left: 0px;
 	z-index: -1;
 	padding: 0px;
