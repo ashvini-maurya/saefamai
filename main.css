@@ -109,7 +109,7 @@
 
 .image_section_3 {
 	position: absolute;
-	top: 2070px;
+	top: 1925px;
 	left: 20px;
 	z-index: -1;
 	color: black;
@@ -151,17 +151,11 @@
 	z-index: -1;
 }*/
 
-#rectangle {
-	top: 2070px;
-    width:2800px;
-    height:1800px;
-    background:pink;
-    z-index: -1;
-}
+
 
 .footer {
 	position: absolute;
-	top: 2850px;
+	top: 2800px;
 	left: 0px;
 	z-index: -1;
 	padding: 0px;
