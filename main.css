@@ -152,9 +152,9 @@
 }*/
 
 .button_1 {
-    position: absolute;
-    top: 2932px;
-    left: 270px;
+    position: fixed;
+    top: 800px;
+    left: 240px;
     background-color: #ffd30a;
     border: none;
     color: black;
@@ -166,6 +166,7 @@
     margin: 1px 405px;
     cursor: pointer;
     border-radius: 4px;
+    z-index: 700;
 
     -o-transition:.5s;
     -ms-transition:.5s;
